@@ -1,0 +1,6 @@
+Create a regex string that will match any traditional C style comment using only posix_extended regex
+
+C-style comment:
+/*
+	Stil in comment
+*/
